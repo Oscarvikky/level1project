@@ -1,0 +1,302 @@
+
+
+
+.rv video{
+    width: ;
+    height: 850px;
+    z-index: 999;
+    left: 0;
+    
+    
+}
+
+
+
+.bbb{
+    margin-top: -600px;
+    color: white;
+    text-align: center;
+}
+.bbb h1{
+    font-size: 50px;
+}
+.bbb p{
+    font-size: 24px;
+}
+.beat {
+    width: 200px;
+    height: 50px;
+    color: white;
+    background-color:#3bc182;
+    border: 0;
+    border-radius: 4px;
+    font-weight: 500;
+}
+
+.bed4{
+    width: 50px;
+    height: 40px;
+    background-color:black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    padding: 6px;
+    border: 0;
+    /* position: absolute; */
+    /* left: 599px; */
+    border-radius:0 6px 6px 0;
+    white-space: nowrap;
+}
+.bed3{
+    width: 600px;
+    height: 40px;
+    padding: 6px;
+    outline: none;
+}
+.bed2{
+    display: flex;
+    z-index: 0;
+    /* margin-top: 40px; */
+}
+.bed3::placeholder{
+    font-size: 18px;
+    white-space: nowrap;
+    color: gray;
+    
+}
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.www{
+    background: none;
+    border: none;
+    font-size: 18px;
+    color: gray;
+}
+.ww{
+    color: blue;
+}
+.pam{
+    position: absolute;
+background-color: white;
+opacity: 0.3;
+width: 100%;
+top: 790px;
+display: flex;
+justify-content: space-evenly;
+z-index: 999;
+font-size: 40px;
+margin-left: 0;
+
+
+}
+.rice{
+    margin-top: 450px;
+}
+.rice:hover{
+    /* transform: skewY(20deg); */
+    opacity: 0.2;
+    /* background-color: rgba(0, 0, 0, 0.1); */
+    z-index: 2;
+}
+.rice h2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.ric{
+    width: 80%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin: auto;  
+    /* background-color: black; */
+    /* opacity: 0.2; */
+    z-index: 0.2;
+}
+.ric img{
+    width: 300px;
+    padding: 10px;
+    /* z-index: -1;    */
+}
+.cvcv:hover{
+    transform: scale(1.1);
+    transition: all 0.8s linear;
+}
+
+
+.ww1{
+    border: 0.7px solid #3bc182;
+    width: 50px;
+    background-color: white;
+    color: #3bc182;
+    height: 40px;
+    white-space: nowrap;
+}
+
+.lekan{
+    background-color: #f7f7f7;
+    width: 100%;
+    height: fit-content;
+    margin-top: 100px;
+
+}
+.lekan2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: gray;
+}
+.lekan1{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.lekan h1{
+    text-align: center;
+}
+.bado{
+    width: 80%;
+    height: fit-content;
+    background-color: #f7f7f7;
+    margin: 50px  150px;
+    
+
+}
+.ewe{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+    
+}
+.xyz{
+    width: 500px;
+    background-color: #f7f7f7;
+    margin: 40px 60px;
+}
+.ew{
+    margin-left: 30px;
+}
+.ewb{
+    width: 150px;
+    height: 50px;
+    background-color: #3bc182;
+    color: white;
+    border: none;
+    border-radius: 6px;
+}
+.ewb:hover{
+    background-color: aquamarine;
+    color: black;
+}
+.fd{
+    width: 80%;
+    margin: auto;
+    
+}
+.ccd{
+    text-align: center;
+}
+.ccd h2{
+    font-weight: 700;
+}
+
+
+
+.tobi{
+    background-color: #f7f7f7;
+    width: 100%;
+    height: fit-content;
+    margin-top: 100px;
+}
+.tob{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+}
+.tobii{
+    width: fit-content;
+    height: fit-content;
+    background-color: white;
+    border-radius: 6px;
+    border: none;
+    margin-top: 30px;
+    
+
+    
+    margin-left: 40px;
+    padding: px;
+
+}
+.tobii:hover{
+    border-left: 5px solid #3bc182;
+}
+.tboy{
+    background: none;
+    border: none;
+    height: fit-content;
+    /* margin-top: 50px; */
+    margin-left: 20px;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    width: 600px;
+    align-items: center;
+
+}
+.tboy1{
+    display: none;
+    margin-left: 20px;
+}
+.tobii:focus-within .tboy1{
+    display: block;
+}
+.tobi h2{
+    text-align: center;
+    font-weight: 600;
+}
+
+.sam{
+    text-align: center;
+    margin-top: 70px;
+    
+}
+.sam p{
+    font-size: 18px;
+    color: gray;
+}
+.sam button{
+    width: 150px;
+    height: 50px;
+    background-color: #3bc182;
+    color: white;
+    border: 0;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+
+.ba{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    height: fit-content;
+    
+}
+.baba{
+    display: flex;
+    width: 50%;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
